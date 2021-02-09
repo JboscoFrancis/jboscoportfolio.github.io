@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     width: 250px;
     color: white;
-    background-color: #30475e;
+    background-color: #11698e;
     padding: 4px;
     top: 0px;
     bottom: 0px;
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 150px;
     display: block;
     margin: 10px auto;
-    border: 6px solid #11698e;
+    border: 6px solid #a2d0c1;
 
 }
 
